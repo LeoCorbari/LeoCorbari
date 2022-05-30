@@ -29,6 +29,7 @@
 <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-2f5b8b?style=flat&logo=postgresql&logoColor=white" /> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 <img alt="React Router" src="https://img.shields.io/badge/-React Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img alt="Vite JS" src="https://img.shields.io/badge/-Vite JS-ffb60e?style=flat&logo=vite&logoColor=white" />
 
 </p>
 
