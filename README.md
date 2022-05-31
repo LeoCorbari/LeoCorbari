@@ -30,7 +30,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 <img alt="React Router" src="https://img.shields.io/badge/-React Router-CA4245?style=flat&logo=react-router&logoColor=white" />
 <img alt="Vite JS" src="https://img.shields.io/badge/-Vite JS-ffb60e?style=flat&logo=vite&logoColor=white" />
-
+<img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2188b6?style=flat&logo=yarn&logoColor=white" />
 </p>
 
 #### Contact me 
