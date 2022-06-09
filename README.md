@@ -16,14 +16,17 @@
 #### Other tech that i work or academic experience
   
 <p>
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat&logo=mui&logoColor=white" />
 <img alt="Styled" src="https://img.shields.io/badge/-Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffcc31?style=flat&logo=Firebase&logoColor=white" />
 <img alt="VisualCode Studio" src="https://img.shields.io/badge/-Visual Code Studio-0078d8?style=flat&logo=visual-studio-code&logoColor=white" />
 <img alt="AdobeXD" src="https://img.shields.io/badge/-AdobeXD-470137?style=flat&logo=adobexd&logoColor=white" />
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-cf649a?style=flat&logo=sass&logoColor=white" />
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat&logo=Java&logoColor=white" />
 <img alt="Postgresql" src="https://img.shields.io/badge/-Postgresql-2f5b8b?style=flat&logo=postgresql&logoColor=white" /> 
